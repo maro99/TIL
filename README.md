@@ -1,4 +1,4 @@
-### 작성 계획(19.4.23정정) 
+### 작성 계획(19.4.23정정)
 
 1. 블로그 처럼 글단위로 업데이트 한다.(개인 지식인 처럼 관리 하려함. 복습차원 + 질문해결관리)    
 2. 그날배운토픽or 질문 따서각각  파일명 만든다.      
@@ -6,7 +6,7 @@
 4. 질문 생각날시 README.md에 바로 업데이트  
 5. 글작성 앞서서 respository검색해서 같은 토픽이면 그글 읽어보고 추가정보 업데이트 
 
-### 질문 목록 (19.4.23업데이트)  
+### 질문 목록  
 - https-ssl   
 - cookie-session    
 - token  
@@ -22,4 +22,9 @@
 - Movie.objects.filter(library\_library\_title\_ 이런식으로 튜플 검색시 효율 얼마나 떨어지는지?     
 - TCP/UDP   
 - IP 
-- Multi\_container\_docker 
+- Multi\_container\_docker   
+- branch\_&\_enveronment\_in\_eb   
+- url\_uri   
+- HTTP응답상태코드   
+- Django\_RESTFUL\_API    
+
