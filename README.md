@@ -1,18 +1,19 @@
-### 작성 계획(19.4.23정정)
+### 작성 계획(19.5.25정정)
 
 1. 블로그 처럼 글단위로 업데이트 한다.(개인 지식인 처럼 관리 하려함. 복습차원 + 질문해결관리)    
 2. 그날배운토픽or 질문 따서각각  파일명 만든다.      
 3. 하루 최소 1개 업데이트 
 4. 질문 생각날시 README.md에 바로 업데이트  
 5. 글작성 앞서서 respository검색해서 같은 토픽이면 그글 읽어보고 추가정보 업데이트 
+6. 아리 까리 한것들 일단 알고있는 만큼 적어보고 추가로 찾아서 정보 기입 
 
 ### 질문 목록  
 - https-ssl   
 - cookie-session    
-- token  
+- token   
+- Session vs token    
 - rabbitmq vs reddis    
-- 스케줄링시 nosql쓰는 이유      
-- nosql vs RDBMS    
+- 스케줄링시 nosql쓰는 이유          
 - AWS 과금-ec2 free tier 사용중 언제 과금 많이 붙는지(db의 migration 자주 언급 되긴 했음.)     
 - 현재 ec2한개만 써서 autoscaling 안쓰는데 이거 활성화 하는 방법은뭔지. 범위 설정 가능한지  
 - AWS free tier 끝나고 다른 아이디 만들어서 프로젝트 옮길때 어떻게 할지    
@@ -27,4 +28,7 @@
 - url\_uri   
 - HTTP응답상태코드   
 - Django\_RESTFUL\_API    
+- Socail\_Login과정  
+- CORS     
+
 
