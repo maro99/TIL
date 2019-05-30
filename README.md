@@ -9,9 +9,7 @@
 
 ### 질문 목록  
 - https-ssl   
-- cookie-session    
-- token   
-- Session vs token    
+- token       
 - rabbitmq vs reddis    
 - 스케줄링시 nosql쓰는 이유          
 - AWS 과금-ec2 free tier 사용중 언제 과금 많이 붙는지(db의 migration 자주 언급 되긴 했음.)     
@@ -30,5 +28,9 @@
 - Django\_RESTFUL\_API    
 - Socail\_Login과정  
 - CORS     
-
+- OSI7Layer 
+- VPC   
+- ElasticBenastalk  
+- 내프로젝트 구조도 그려보기     
+- 소캣이 뭐지?   
 
