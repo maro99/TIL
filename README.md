@@ -8,7 +8,6 @@
 6. 아리 까리 한것들 일단 알고있는 만큼 적어보고 추가로 찾아서 정보 기입 
 
 ### 질문 목록  
-- https-ssl   
 - token       
 - rabbitmq vs reddis    
 - 스케줄링시 nosql쓰는 이유          
