@@ -30,8 +30,6 @@
 - OSI7Layer 
 - ElasticBenastalk  
 - 내프로젝트 구조도 그려보기     
-- 소캣이란?   
-- 패킷이란?   
 - 웹서버 
 - VPC,subnet,internetgateway.어떻게 분배 하나?   
 - Route53,DNS서버   
@@ -39,4 +37,8 @@
 - uwsgi랑 runserver랑 정확히 뭐가 같고 다른지? docker run시에 원래는 뒤에 runserver붙여서 했었는데 uwsgi를 supervisor로 돌리고 부터는 런서버 안해도 서버가 도네.  
 -프론트 서버 python -m http.server 3000 으로 supervisor로 돌리는데 이거 문제 없나? 더좋은 방법은?   
 - elb(443) -> ec2 -> ec2내부nginx-> container(7000) 인데 1) elb가 443으로 받은 요청을 어느 ec2에 줄지 어떻게 결정? 2) ec2내부nginx에서 어느 컨테이너로 갈지 어떻게 결정? (내경우 7000열어논거 자동으로 열린거 저거밖에라 들어가는건가?)  
-- MVC 
+- MVC   
+- ORM, ORM 최적화   
+- 오버로딩 vs 오버라이딩 in python   
+- 디버거 세팅    
+
