@@ -1,3 +1,5 @@
+> Lean from yesterday, live for today, hope for tomorrow. The Important thnig is not to stop questioning  
+
 ### 작성 계획(19.5.25정정)
 
 1. 블로그 처럼 글단위로 업데이트 한다.(개인 지식인 처럼 관리 하려함. 복습차원 + 질문해결관리)    
