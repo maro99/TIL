@@ -1,4 +1,4 @@
-> Lean from yesterday, live for today, hope for tomorrow. The Important thnig is not to stop questioning  
+> Lean from yesterday, live for today, hope for tomorrow. The Important thnig is not to stop questioning -Albert Einstein
 
 ### 작성 계획(19.5.25정정)
 
