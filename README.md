@@ -34,7 +34,7 @@
 - 내프로젝트 구조도 그려보기     
 - 웹서버 
 - VPC,subnet,internetgateway.어떻게 분배 하나?   
-- Route53,DNS서버   
+- DNS서버   
 - Nginx,uwsgi    
 - uwsgi랑 runserver랑 정확히 뭐가 같고 다른지? docker run시에 원래는 뒤에 runserver붙여서 했었는데 uwsgi를 supervisor로 돌리고 부터는 런서버 안해도 서버가 도네.  
 -프론트 서버 python -m http.server 3000 으로 supervisor로 돌리는데 이거 문제 없나? 더좋은 방법은?   
