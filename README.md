@@ -8,8 +8,7 @@
 4. 질문 생각날시 README.md에 바로 업데이트  
 5. 글작성 앞서서 respository검색해서 같은 토픽이면 그글 읽어보고 추가정보 업데이트 
 6. 애매한것들 일단 알고있는 만큼 적어보고 추가로 찾아서 정보 기입    
-7. 중요한데 안다고 생각하지만 설명 못하겠는것 모두 설명해 보기.  
-8. 
+7. 중요한데 안다고 생각하지만 설명 못하겠는것 모두 설명해 보기.   
 ### 질문 목록  
 - token       
 - rabbitmq vs reddis    
@@ -26,8 +25,6 @@
 - url\_uri   
 - HTTP응답상태코드   
 - Django\_RESTFUL\_API      
-- CORS     
-- OSI7Layer 
 - ElasticBenastalk  
 - 내프로젝트 구조도 그려보기     
 - 웹서버 
@@ -51,6 +48,7 @@
 - (python) class (상속 등 및 기본 호출 ) (12강)      
 - (python) decorator(12강)     
 
+- 각 자료구조 언제 쓰고 특장점등 짚고 넘어가기 
 - (datastructure) - 정렬 알고리즘 7종(선택,삽입,쉘,힙,합병,퀵,기수) 설명 + 손코딩     
 - (datastructure) - 연결리스트 설명, 예제 손코딩      
 - (datastructure) - 스택,큐 설명, 예제 손코딩   
@@ -81,6 +79,7 @@
 - (network) - POST VS GET -> 인터뷰깃 
 - (network) - IP 주소 체계 176장    
 - (network) - 유저가 브라우져에 주소 첬을때 index페이지 보일때 까지 전체 과정 설명.-> 인터뷰깃, 177장,유튜브등 참고해서 어떻게든 완벽하게 설명해라 
+- (network) - OSI7Layer   
 
 - git 협업시 썼던것 회상.(clone받고, upstream설정, pull해서 최신화, 작업및 커밋후 pullrequest하던것 )   
 - git branch등 나누고, 머지 하던 명령어 정리    
