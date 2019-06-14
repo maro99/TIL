@@ -60,9 +60,7 @@
 - (datastructure) - 탐색트리 설명, 예제 손코딩  
 - (datastructure) - 해쉬테이블 설명, 예제 손코딩    
 - (datastructure) - 그래프 설명 및 예제 손코딩   
-
-- (database) - 데이터베이스 특징  (독립성..)->인터뷰깃,     
-- (database) - 데이터베이스에서 인덱스란? -> 인터뷰깃 + 42장    
+  
 - (database) - 정규화     
 - (database) - 트랜잭션  24장 
 - (database) - 트랜잭션 과 교착상태.방지법.-> 인터뷰깃 참고      
