@@ -8,7 +8,9 @@
 4. 질문 생각날시 README.md에 바로 업데이트  
 5. 글작성 앞서서 respository검색해서 같은 토픽이면 그글 읽어보고 추가정보 업데이트 
 6. 애매한것들 일단 알고있는 만큼 적어보고 추가로 찾아서 정보 기입    
-7. 중요한데 안다고 생각하지만 설명 못하겠는것 모두 설명해 보기.   
+7. 중요한데 안다고 생각하지만 설명 못하겠는것 모두 설명해 보기.     
+8. 내용을 찾은것을 업로드 하다라도 한번 쭉 읽어보고, 그페이지안보고 설명해보기. 그뒤 수정하거나 내용 추가하도록하자.    
+9. 댓글 달아가며 생각나는대로 최대한 복습 
 ### 질문 목록  
 - token       
 - rabbitmq vs reddis    
@@ -25,7 +27,8 @@
 - url\_uri   
 - HTTP응답상태코드   
 - Django\_RESTFUL\_API      
-- ElasticBenastalk  
+- ElasticBenastalk 구조    
+- ElasticBeanstalk 배포 전체 과정 설명해보기    
 - 내프로젝트 구조도 그려보기     
 - 웹서버 
 - VPC,subnet,internetgateway.어떻게 분배 하나?   
@@ -38,6 +41,7 @@
 - 유저가 브라우져에 주소 첬을때 index페이지 보일때 까지 전체 과정 설명.   
 - xss 공격
 - 가상머신과 비교한 Docker 장점 
+- 파이썬, 장고 버전 특징 
 
 - (python) 추상클래스     
 - (python) generator      
@@ -49,7 +53,7 @@
 - (python) decorator(12강)     
 
 - 각 자료구조 언제 쓰고 특장점등 짚고 넘어가기 
-- (datastructure) - 정렬 알고리즘 7종(선택,삽입,쉘,힙,합병,퀵,기수) 설명 + 손코딩     
+- (datastructure) - 정렬 알고리즘 9종(버블,선택,삽입,쉘,힙,합병,퀵,기수,팀) 설명 + 손코딩     
 - (datastructure) - 연결리스트 설명, 예제 손코딩      
 - (datastructure) - 스택,큐 설명, 예제 손코딩   
 - (datastructure) - 트리 설명, 예제 손코딩   
