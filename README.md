@@ -61,7 +61,6 @@
 - (datastructure) - 해쉬테이블 설명, 예제 손코딩    
 - (datastructure) - 그래프 설명 및 예제 손코딩   
   
-- (database) - 정규화     
 - (database) - 트랜잭션  24장 
 - (database) - 트랜잭션 과 교착상태.방지법.-> 인터뷰깃 참고      
 - (database) - 병행제어  26장    
