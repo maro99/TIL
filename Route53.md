@@ -7,4 +7,4 @@ route 53 왜 쓰는것인지? 그냥 바로 나의 ec2 ip를 호스팅 kr같은 
 
 
 [생활코딩 Route53강의](https://opentutorials.org/course/608/3012)
-   
+[도환이형 블로그](https://devdoh.tistory.com/36?category=873014)     

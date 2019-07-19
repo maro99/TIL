@@ -53,9 +53,6 @@
 - (python) decorator(12강)     
 
 - 각 자료구조 언제 쓰고 특장점등 짚고 넘어가기 
-- (datastructure) - 연결리스트 설명, 예제 손코딩      
-- (datastructure) - 스택,큐 설명, 예제 손코딩   
-- (datastructure) - 트리 설명, 예제 손코딩   
 - (datastructure) - 탐색트리 설명, 예제 손코딩  
 - (datastructure) - 해쉬테이블 설명, 예제 손코딩    
 - (datastructure) - 그래프 설명 및 예제 손코딩   
