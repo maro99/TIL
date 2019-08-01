@@ -195,8 +195,6 @@ background, deamon 차이:
  * 또한 윈도우에서는 데몬을 서비스라고 부른다.
 ```
 
-**좋은답변**: 
-
 
 
 
@@ -243,14 +241,23 @@ task를 몇개의 worker에 할당하는 과정 자체가 이미 celery에
 
 ## 질문 . db 어떤것 썼는지? 
 
-local -> sqlite 
+local -> mysql
 dev, production -> rds의 postgresql 
 
 각 db 특징은? 
 
-**sqlite** : 
-**rds** :
+**mysql** : 
 
+
+
+**postgresql** :
+
+
+
+rds 따로 빼준 이유는.   
+기존에 mysql을 프로젝트 안에 파일 형태로 가지고 있었는데 이경우     
+서버 접속 늘어서 ec2가 여러개로 복제되면 각 파일들을 동기화 시키기 어려움.       
+그래서 아예 db접속만을 위한 db서버를 따로 둔것.      
 
 
 ---
@@ -319,8 +326,13 @@ dev, production -> rds의 postgresql
 
 
 ## 질문 nginx 단에서 어떻게 다른 프로세스들 연결 했는지? 
-도커의 엔티티 관련해서 말하셨음. 그게 있어야 연결가능. 
 
+
+## 질문 도커의 엔트리 포인트?   
+[여기](https://bluese05.tistory.com/77)참고.   
+내가쓴 CMD랑 비슷한것.    
+다만 CMD는 인자를 받을 수있고 entriypoint 는 인자 안받는다.       
+주어진 같은 명령을 실행하기만 하면 entriypoint쓰는게 맞다함.    
 
 --- 
 
@@ -328,6 +340,28 @@ dev, production -> rds의 postgresql
 ## 질문 Nginx 왜 두개썼는지 ? 
 - ec2 바로 안쪽의 nginx는 어떤의도에서 사용한 것인지?
 - nginx 안쓰고 바로 docker process 와 연결해도 되는데? 
+
+
+[여기](https://docs.aws.amazon.com/ko_kr/elasticbeanstalk/latest/dg/java-se-nginx.html)참고      
+
+```
+Elastic Beanstalk는 nginx를 역방향 프록시로 사용하여 애플리케이션을 포트 80의 Elastic Load Balancing 로드 밸런서에 매핑합니다. Elastic Beanstalk는 확장하거나 자체 구성으로 완전히 재정의할 수 있는 기본 nginx 구성을 제공합니다.
+
+Elastic Beanstalk의 기본 nginx 구성을 확장하려면 애플리케이션 소스 번들의 .ebextensions/nginx/conf.d/라는 폴더에 .conf 구성 파일을 추가합니다. Elastic Beanstalk의 nginx 구성에는 이 폴더의 .conf 파일이 자동으로 포함됩니다.
+
+
+
+```
+ec2 바로 안쪽의 nginx는 elastic beanstlak에서 eb init으로 환경 생성시 자동으로 만들어준거다. 이것은 역방향 프록시 역할을 한다.       
+
+
+**역방향 프록시?**     
+
+
+
+
+
+
 
 --- 
 
@@ -340,7 +374,7 @@ jquery, ajax, 개념.
 --- 
 
 
-## 질문. 회사의 인제상 3h, hugry, humanity, humer에 대한 사례 
+## 질문. 회사의 인제상  헝그리 , 인류애 , 유머 에 대한 사례 
 
 
 ---
